@@ -1,5 +1,5 @@
 # Supervised-machinelearning
-Eksempel på hvordan man laver en maskine læringsmodel v. brug af Iris-datasættet
+Eksempel på hvordan man laver en simpel maskinelæringsmodel v. brug af Iris-datasættet
 
 Vedhæftet kodning træner en Random Forest model på "iris" datasetet og forudsige klassifikationen af testdataene. Nøjagtigheden af forudsigelserne vil blive evalueret ved hjælp af en confusion matrix.
 
